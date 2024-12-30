@@ -68,6 +68,10 @@ This paper investigates performance and scaling issues in software projects. It 
 ## Tools to Consider
 - **Load Balancers**: HAProxy, NGINX, AWS ELB.
 - **Scaling Platforms**: Kubernetes, AWS Auto Scaling, Azure VM Scale Sets.
-
+  
 ## Conclusion
 Load balancers and scaling solutions address performance issues effectively. Begin with simple methods (vertical scaling) and transition to advanced solutions (horizontal scaling) as the project grows.
+
+## References
+GFG [https://www.geeksforgeeks.org/overview-of-scaling-vertical-and-horizontal-scaling]  
+Webflow [https://webflow.com/blog/website-scaling]
