@@ -22,5 +22,5 @@
 
 - **Addiction**: Social media can become addictive, leading to excessive time spent online.
 - **Mental health issues**: It can contribute to anxiety, depression, and low self-esteem, especially through comparison.
-- **Distraction**: Social media can be a constant source of distraction, affecting productivity and focus.
+- **Distraction**: Social media can be a constant source of distraction, affecting productivity and focus .
 
